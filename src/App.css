@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 5px;
+}
+
+
+.sim {
+  width: 80px;
+  padding-top: 10px;
+  padding-left: 15px;
+}
+.bck {
+  width: 500px;
+  height: 300px;
+  position: absolute;
+  z-index: -1;
+  border-radius: 20px;
+  margin-top: 0px;
+}
+.title {
+  padding: 5px;
+  padding-right: 10px;
+  text-align: right;
+}
+.App {
+  width: 100%;
+ 
+}
+.card-holder {
+  font-size: 17px;
+}
+h1,
+h2 {
+  
+  color: #c5c6cb;
+}
+h4 {
+  color: whitesmoke;
+}
+.card-validity {
+  text-align: center;
+}
+.card-validation {
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+}
+.logo-container {
+  display: flex;
+}
+.logo {
+  height: 70px;
+}
+.number {
+  color: whitesmoke;
+
+  width: 50%;
+  padding-left: 10px;
+  margin-left: 15px;
+  font-size: 23px;
+}
+.enterValue {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  left:1000px;
+}
+.card{
+  display: flex;
+  justify-content: space-around;
+
+}
